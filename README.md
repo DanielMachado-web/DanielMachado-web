@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Me chamo Daniel Ribeiro Machado, sou um Programador Full Stack Developer, atualmente fazendo formação de programadores na DevClub com varios projetos e usando varias tecnlogias:
+Me chamo Daniel Ribeiro Machado, sou um Programador Full Stack Developer, atualmente fazendo formação de programadores na DevClub com varios projetos e usando varias tecnologias:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
