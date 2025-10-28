@@ -14,8 +14,13 @@ Me chamo Daniel Ribeiro Machado, sou um Programador Full Stack Developer, atualm
 
 <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=F7DF1E">
 
+<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
 
 
 [![Daniel Machado Stats](https://github-readme-stats.vercel.app/api?username=DanielMachado-web)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Daniel Machado Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMachado-web)](https://github.com/anuraghazra/github-readme-stats)
+
